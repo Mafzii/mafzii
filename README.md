@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [mustafaafzal.me](mustafaafzal.me)
 
-- 💬 Ask me about **React, Python and Java**
+- 💬 Ask me about **Python, Java and JavaScript**
 
 - 📫 How to reach me **mustafaafzal10@outlook.com**
 
