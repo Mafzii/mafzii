@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **fun ideas!**
 
-- 👨‍💻 All of my projects are available at [mustafaafzal.me](mustafaafzal.me)
+- 👨‍💻 Check out my personal website at [mustafaafzal.me](https://www.mustafaafzal.me/)
 
 - 💬 Ask me about **Python, Java and JavaScript**
 
