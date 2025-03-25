@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **fun ideas!**
 
-- 👨‍💻 Check out my personal website at [mustafaafzal.me](https://www.mustafaafzal.me/)
-
 - 💬 Ask me about **Python, Java and JavaScript**
 
 - 📫 How to reach me **mustafaafzal10@outlook.com**
