@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **advanced backend engineering**
+- 🌱 I’m currently learning **network engineering**
 
 - 👯 I’m looking to collaborate on **fun ideas!**
 
