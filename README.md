@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafzii&label=Profile%20views&color=0eb429&style=flat" alt="mafzii" /> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🌱 Interetsed in **network engineering**
 
-- 🌱 I’m currently learning **network engineering**
-
-- 💬 Ask me about **Python, Java and JavaScript**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **mustafaafzal10@outlook.com**
 
