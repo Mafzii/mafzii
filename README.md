@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Hey, I'm Mustafa</h1>
 <h3 align="center">A full-stack software engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafzii&label=Profile%20views&color=0eb429&style=flat" alt="mafzii" /> </p>
