@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafzii&label=Profile%20views&color=0eb429&style=flat" alt="mafzii" /> </p>
 
-- 🌱 Interetsed in **network engineering**
+- 🌱 Interested in **network engineering**
 
 - 💬 Ask me about **Java**
 
